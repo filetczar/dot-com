@@ -1,54 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://phil-azar.com/categories/</loc>
+    <loc>/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/tags/plot/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/post/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/categories/r/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/tags/r-markdown/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/tags/regression/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/tags/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phil-azar.com/about/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
