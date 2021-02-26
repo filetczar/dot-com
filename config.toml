@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Phil Azar"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-190579681-1"
 
 [params]
     author = "Phil Azar"
@@ -16,6 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "python", "R"]
+    ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     url = "/"
@@ -28,15 +29,20 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/posts/"
+    name = "Blog"
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
+    url = "/projects/"
     name = "Projects"
     weight = 4
-
+    
+[[menu.main]]
+    url = "/cheat-sheets/"
+    name = "Cheat Sheets"
+    weight = 5
+    
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
