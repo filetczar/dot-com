@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phil Azar</title>
-    <link>https://phil-azar.com/</link>
+    <link>/</link>
     <description>Recent content on Phil Azar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://phil-azar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello R Markdown</title>
-      <link>https://phil-azar.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://phil-azar.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -20,11 +24,12 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>About</title>
-      <link>https://phil-azar.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://phil-azar.com/about/</guid>
-      <description>I am data scientist living in St. Louis, MO.</description>
+      <guid>/about/</guid>
+      <description>I am a data scientist living in St. Louis, MO, and working as a technical lead for DataKind. I am interested developing data science and machine learning tools, and making data science accessible to all. When not in front of a monitor, I am outside running, watching a Coen Brothers&amp;rsquo; movie, or listening to the latest Freakonomics podcast.
+Feel free to connect on twitter or an email at azar dot phil at gmail dot com.</description>
     </item>
     
   </channel>
