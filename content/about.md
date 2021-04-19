@@ -10,3 +10,5 @@ Feel free to connect on [twitter](https://twitter.com/filetczar) or an email at 
 * Training, Evaluating and Deploying ML at Scale 
 * Developing Data Science Applications and Dashboards
 * Directing a Marvel Franchise (budget must be >$500M to be considered)
+
+Resume [here](https://docs.google.com/document/d/19yt3UWX_p4Pj0ipQRW_yMl0cjUo_Ux7fXYaJD_PlZX8/edit?usp=sharing)
